@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Metrics-Inhalte (nicht committen)
+metrics/*
+!metrics/.gitkeep
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
